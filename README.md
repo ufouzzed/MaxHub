@@ -4,7 +4,7 @@ This is a hub made by JMaxeyy. Someone of the game are kinda outdated, but I onl
 
 
 --------------------------------
-+ SUPPORTED GAMES FOR THIS HUB +
++ SUPPORTED GAMES FOR THIS HUB
 
 [+] My Dragon Simulator (VERY OP)
 
