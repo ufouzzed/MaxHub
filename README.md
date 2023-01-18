@@ -143,4 +143,11 @@ This is a hub made by JMaxeyy. Someone of the game are kinda outdated, but I onl
 [+] Phantom Forces (BETA)
 
 [+] Combat Warriors (Silent Parry, Toggle AutoParry)
+
+[+] Sword Simulator
+
+[+] Military War Tycoon (OP)
+
+[+] Project New World (HEAVILY BETA)
+
 ADDING MORE
