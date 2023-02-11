@@ -158,6 +158,8 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] School of Hierarchy
 
-[+] Drive Wolrd
+[+] Drive World
+
+[+] Mage Tycoon
 
 ADDING MORE
