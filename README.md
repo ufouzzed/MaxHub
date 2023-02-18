@@ -1,7 +1,4 @@
 ```lua
----DONT EXECUTE THIS OR U GET permanently BLACKLISTED
- loadstring(game:HttpGet("https://raw.githubusercontent.com/ufouzzed/MaxHub/main/Protected%20(20).lua"))()
-````
 
 
 # https://discord.gg/gDjfpqVrHa
