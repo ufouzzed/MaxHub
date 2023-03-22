@@ -2,14 +2,14 @@
 
 <a href="https://discord.gg/gDjfpqVrHa">**MAXHUB DISCORD**</a>
  
-<a href="https://www.roblox.com/catalog/10382236962/MaxHub"><h2>Purchase Hub Here</h2></a>
+<a href="https://www.roblox.com/catalog/10382236962/MaxHub">**Purchase Hub Here**</a>
 
 
 # MaxHub
 This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only wanted to make this because discord wouldn't allow me to post more game unless I had nitro, since im broke im moving it to here.
 
 ! PAID HUB !
-
+```lua
 
 --------------------------------
 + SUPPORTED GAMES FOR THIS HUB
@@ -180,4 +180,5 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] Raise a Pochita
 
-ADDING MORE
+--ADDING MORE
+```
