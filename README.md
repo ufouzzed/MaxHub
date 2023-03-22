@@ -1,9 +1,8 @@
 
 
-Max Hub Discord https://discord.gg/gDjfpqVrHa
-
+<a href="https://discord.gg/gDjfpqVrHa">**MAXHUB DISCORD**</a>
  
-<a href="https://www.roblox.com/catalog/10382236962/MaxHub">Purchase Hub</a>
+<a href="https://www.roblox.com/catalog/10382236962/MaxHub">Purchase Hub Here</a>
 
 
 # MaxHub
