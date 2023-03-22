@@ -1,8 +1,4 @@
-<img src="https://pbs.twimg.com/media/FZrjqXlX0AAiZ5d?format=jpg&name=medium" alt="alternatetext">
-
-<video width="320" height="240" controls>
-  <source src="https://twitter.com/i/status/1631179108229971969" type="video/mp4">
-</video>
+<img src="[https://pbs.twimg.com/media/FZrjqXlX0AAiZ5d?format=jpg&name=medium](https://pbs.twimg.com/media/FZtIhp9XwAAdXdj?format=jpg&name=small)" alt="alternatetext">
 
 <a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
  
