@@ -169,4 +169,12 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] Wild Horse Islands
 
+[+] JailBreak
+
+[+] psychic playground
+
+[+] Demonfall
+
+[+] Raise a Pochita
+
 ADDING MORE
