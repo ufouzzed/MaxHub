@@ -3,7 +3,7 @@
 Max Hub Discord https://discord.gg/gDjfpqVrHa
 
  
-<a href="(https://www.roblox.com/catalog/10382236962/MaxHub)">Purchase Hub</a>
+<a href="https://www.roblox.com/catalog/10382236962/MaxHub">Purchase Hub</a>
 
 
 # MaxHub
