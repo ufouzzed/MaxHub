@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/FZrjqXlX0AAiZ5d?format=jpg&name=small" alt="alternatetext">
+<img src="https://pbs.twimg.com/media/FZrjqXlX0AAiZ5d?format=jpg&name=medium" alt="alternatetext">
 
 
 <a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
