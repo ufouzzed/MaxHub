@@ -1,4 +1,4 @@
-<img src="https://twitter.com/MrQuackied/status/1556917845304524802/photo/1" alt="alternatetext">
+<img src="https://pbs.twimg.com/media/FZtIhp9XwAAdXdj?format=jpg&name=small" alt="alternatetext">
 
 
 <a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
