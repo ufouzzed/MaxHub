@@ -1,7 +1,7 @@
 <img src="https://twitter.com/MrQuackied/status/1556917845304524802/photo/1" alt="alternatetext">
 
 
-<a href="https://discord.gg/gDjfpqVrHa">**MAXHUB DISCORD**</a>
+<a href="https://discord.gg/gDjfpqVrHa"><strong>This text is important!</strong></a>
  
 <a href="https://www.roblox.com/catalog/10382236962/MaxHub">**Purchase Hub Here**</a>
 
