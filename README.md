@@ -1,4 +1,5 @@
-<p style="background-image: url('https://twitter.com/MrQuackied/status/1556917845304524802/photo/1');">
+<img src="https://twitter.com/MrQuackied/status/1556917845304524802/photo/1" alt="alternatetext">
+
 
 <a href="https://discord.gg/gDjfpqVrHa">**MAXHUB DISCORD**</a>
  
