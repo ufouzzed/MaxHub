@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/gDjfpqVrHa">**MAXHUB DISCORD**</a>
  
-<a href="https://www.roblox.com/catalog/10382236962/MaxHub">Purchase Hub Here</a>
+<a href="https://www.roblox.com/catalog/10382236962/MaxHub"><h2>Purchase Hub Here</h2></a>
 
 
 # MaxHub
