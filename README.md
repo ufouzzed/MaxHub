@@ -1,7 +1,7 @@
 <img src="https://twitter.com/MrQuackied/status/1556917845304524802/photo/1" alt="alternatetext">
 
 
-<a href="https://discord.gg/gDjfpqVrHa"><strong>This text is important!</strong></a>
+<a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
  
 <a href="https://www.roblox.com/catalog/10382236962/MaxHub">**Purchase Hub Here**</a>
 
@@ -9,7 +9,7 @@
 # **MaxHub**
 This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only wanted to make this because discord wouldn't allow me to post more game unless I had nitro, since im broke im moving it to here.
 
-! PAID HUB !
+*! PAID HUB !*
 ```lua
 
 --------------------------------
