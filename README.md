@@ -150,7 +150,7 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] Phantom Forces (BETA)
 
-[+] Combat Warriors (Silent Parry, Toggle AutoParry)
+[+] Combat Warriors (OP)
 
 [+] Sword Simulator
 
@@ -158,7 +158,7 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] Project New World (HEAVILY BETA)
 
-[+] Car Crusher 2
+[+] Car Crusher 2 (OP)
 
 [+] Tower Simulator
 
@@ -170,13 +170,13 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] Mage Tycoon
 
-[+] Wild Horse Islands
+[+] Wild Horse Islands (Horse Finder)
 
 [+] JailBreak
 
 [+] psychic playground
 
-[+] Demonfall
+[+] Demonfall (BETA)
 
 [+] Raise a Pochita
 
