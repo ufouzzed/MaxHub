@@ -180,5 +180,8 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] Raise a Pochita
 
+[+] Jay's MM2
+
 --ADDING MORE
 ```
+
