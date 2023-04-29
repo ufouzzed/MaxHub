@@ -10,7 +10,7 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 <a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
 
-<a href="https://maxhub.mysellix.io/">**Purchase Hub Here | MORE PAYMENTS | AUTOMATED**</a>
+<a href="https://maxhub.mysellix.io/">**Purchase Hub Here | Paypal, Crypto | AUTOMATED**</a>
 
 <a href="https://www.roblox.com/catalog/10382236962/MaxHub">**Purchase Hub Here | ROBUX**</a>
 
