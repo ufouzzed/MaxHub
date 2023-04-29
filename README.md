@@ -1,11 +1,12 @@
 <img src="https://pbs.twimg.com/media/FZtIhp9XwAAdXdj?format=jpg&name=large" alt="MaxHub Logo">
 
 <a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
- 
-<a href="https://www.roblox.com/catalog/10382236962/MaxHub">**Purchase Hub Here**</a>
+
+ <a href="https://maxhub.mysellix.io/">**Purchase Hub Here | MORE PAYMENTS | AUTOMATED**</a>
+<a href="https://www.roblox.com/catalog/10382236962/MaxHub">**Purchase Hub Here | ROBUX**</a>
 
 
-# **MaxHub**
+# **MaxHub+**
 This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only wanted to make this because discord wouldn't allow me to post more game unless I had nitro, since im broke im moving it to here.
 
 *! PAID HUB !*
