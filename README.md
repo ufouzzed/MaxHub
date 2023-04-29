@@ -2,7 +2,10 @@
 
 <a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
 
+--------------------------------
+
  <a href="https://maxhub.mysellix.io/">**Purchase Hub Here | MORE PAYMENTS | AUTOMATED**</a>
+
 <a href="https://www.roblox.com/catalog/10382236962/MaxHub">**Purchase Hub Here | ROBUX**</a>
 
 
