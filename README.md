@@ -5,7 +5,7 @@
 
 
 
-                                                                    # **                                                                    MaxHub+**
+# **MaxHub+**
 This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only wanted to make this because discord wouldn't allow me to post more game unless I had nitro, since im broke im moving it to here.
 
 <a href="https://discord.gg/gDjfpqVrHa">Maxhub Discord Server</a>
