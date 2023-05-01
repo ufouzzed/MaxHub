@@ -192,9 +192,11 @@ This is a hub made me JMaxeyy. Some of the game are kinda outdated, but I only w
 
 [+] Blood Engine - Alpha Test
 
-[+] 2 Player Rich Tycoon https://www.roblox.com/games/12173424998/2-Player-Rich-Tycoon
+[+] 2 Player Rich Tycoon | https://www.roblox.com/games/12173424998/2-Player-Rich-Tycoon
 
-[+] Blood Engine - Alpha Test https://www.roblox.com/games/12770771049/Blood-Engine-Alpha-Test
+[+] Blood Engine - Alpha Test | https://www.roblox.com/games/12770771049/Blood-Engine-Alpha-Test
+
+[+] Prior Extinction! - super op | inf all,godmode | https://www.roblox.com/games/6698800091/Prior-Extinction
 
 --ADDING MORE
 ```
